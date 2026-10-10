@@ -1,0 +1,372 @@
+rule_id,table,company_id,year,field,issue,severity
+DQ-05,profitandloss,ADANIENSOL,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,AXISBANK,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,AXISBANK,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,AXISBANK,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,AXISBANK,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,AXISBANK,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,AXISBANK,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,AXISBANK,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,AXISBANK,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,AXISBANK,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,AXISBANK,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,AXISBANK,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,AXISBANK,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BAJFINANCE,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BAJFINANCE,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BAJFINANCE,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BAJFINANCE,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BAJFINANCE,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BAJFINANCE,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BAJFINANCE,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BAJFINANCE,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BAJFINANCE,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BAJFINANCE,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BANKBARODA,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BANKBARODA,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BANKBARODA,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BANKBARODA,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BANKBARODA,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BANKBARODA,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BANKBARODA,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BANKBARODA,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BANKBARODA,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BANKBARODA,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BANKBARODA,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,BANKBARODA,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CANBK,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CANBK,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CANBK,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CANBK,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CANBK,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CANBK,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CANBK,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CANBK,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CANBK,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CANBK,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CANBK,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CANBK,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CHOLAFIN,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CHOLAFIN,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CHOLAFIN,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CHOLAFIN,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CHOLAFIN,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CHOLAFIN,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CHOLAFIN,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CHOLAFIN,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CHOLAFIN,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CHOLAFIN,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CHOLAFIN,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CHOLAFIN,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CIPLA,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CIPLA,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CIPLA,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CIPLA,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CIPLA,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CIPLA,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CIPLA,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CIPLA,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CIPLA,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CIPLA,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CIPLA,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,CIPLA,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,COALINDIA,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,COALINDIA,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,COALINDIA,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,COALINDIA,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,COALINDIA,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,COALINDIA,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,COALINDIA,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,COALINDIA,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,COALINDIA,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,COALINDIA,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,COALINDIA,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,COALINDIA,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCBANK,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCBANK,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCBANK,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCBANK,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCBANK,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCBANK,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCBANK,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCBANK,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCBANK,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCBANK,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCBANK,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCBANK,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCLIFE,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCLIFE,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCLIFE,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCLIFE,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCLIFE,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCLIFE,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCLIFE,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCLIFE,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCLIFE,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCLIFE,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCLIFE,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HDFCLIFE,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HEROMOTOCO,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDALCO,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDALCO,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDALCO,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDALCO,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDALCO,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDALCO,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDALCO,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDALCO,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDALCO,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDALCO,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDALCO,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDALCO,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDUNILVR,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDUNILVR,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDUNILVR,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDUNILVR,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDUNILVR,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDUNILVR,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDUNILVR,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDUNILVR,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDUNILVR,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDUNILVR,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDUNILVR,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,HINDUNILVR,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIBANK,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIBANK,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIBANK,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIBANK,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIBANK,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIBANK,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIBANK,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIBANK,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIBANK,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIBANK,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIBANK,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIBANK,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIGI,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIGI,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIGI,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIGI,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIGI,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIGI,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIGI,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIGI,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIGI,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIGI,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIGI,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIGI,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIPRULI,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIPRULI,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIPRULI,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIPRULI,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIPRULI,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIPRULI,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIPRULI,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIPRULI,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIPRULI,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIPRULI,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIPRULI,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,ICICIPRULI,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDUSINDBK,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDUSINDBK,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDUSINDBK,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDUSINDBK,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDUSINDBK,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDUSINDBK,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDUSINDBK,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDUSINDBK,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDUSINDBK,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDUSINDBK,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDUSINDBK,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDUSINDBK,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,JIOFIN,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,KOTAKBANK,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,KOTAKBANK,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,KOTAKBANK,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,KOTAKBANK,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,KOTAKBANK,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,KOTAKBANK,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,KOTAKBANK,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,KOTAKBANK,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,KOTAKBANK,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,KOTAKBANK,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,KOTAKBANK,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,KOTAKBANK,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,SUNPHARMA,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDIGO,2013-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDIGO,2014-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDIGO,2015-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDIGO,2016-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDIGO,2017-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDIGO,2018-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDIGO,2019-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDIGO,2020-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDIGO,2021-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDIGO,2022-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDIGO,2023-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-05,profitandloss,INDIGO,2024-03,opm_percentage,OPM cross-check mismatch > 1%,WARNING
+DQ-06,profitandloss,ADANIENSOL,2014-03,sales,sales <= 0,WARNING
+DQ-09,cashflow,TVSMOTOR,2022-03,net_cash_flow,net_cash_flow != CFO+CFI+CFF (>10 Cr),WARNING
+DQ-11,profitandloss,ADANIENT,2014-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,ADANIGREEN,2017-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,ADANIGREEN,2018-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,ADANIGREEN,2019-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,ADANIPOWER,2014-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,ADANIPOWER,2016-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,ADANIPOWER,2017-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,ADANIPOWER,2023-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,AMBUJACEM,2018-12,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,APOLLOHOSP,2018-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,AXISBANK,2018-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,AXISBANK,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,BANKBARODA,2016-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,BANKBARODA,2018-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,BANKBARODA,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,BANKBARODA,2021-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,BHARTIARTL,2014-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,BHARTIARTL,2019-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,BHARTIARTL,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,BHARTIARTL,2021-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,BHEL,2016-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,BHEL,2018-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,BHEL,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,BHEL,2021-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,BHEL,2024-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,CANBK,2016-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,CANBK,2018-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,CANBK,2019-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,DLF,2014-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,DLF,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,DRREDDY,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,GODREJCP,2019-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,GODREJCP,2024-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,GRASIM,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,HDFCLIFE,2024-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,HINDALCO,2015-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,HINDALCO,2016-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,IOC,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,IRFC,2013-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,JINDALSTEL,2015-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,JINDALSTEL,2016-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,JINDALSTEL,2017-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,JINDALSTEL,2018-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,JINDALSTEL,2019-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,JSWENERGY,2018-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,JSWSTEEL,2014-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,JSWSTEEL,2016-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,JSWSTEEL,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,LICI,2019-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,LICI,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,LICI,2021-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,LICI,2022-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,LODHA,2021-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,LODHA,2023-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,M&M,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,MOTHERSON,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,NAUKRI,2015-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,NAUKRI,2017-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,NAUKRI,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,NAUKRI,2023-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,NHPC,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,NHPC,2022-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,NTPC,2016-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,NTPC,2019-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,PNB,2016-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,PNB,2018-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,PNB,2019-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,POWERGRID,2019-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,SBIN,2017-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,SBIN,2018-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,SHREECEM,2015-06,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TATACONSUM,2016-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TATAMOTORS,2019-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TATAMOTORS,2024-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TATAPOWER,2013-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TATAPOWER,2014-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TATAPOWER,2015-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TATASTEEL,2013-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TATASTEEL,2015-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TATASTEEL,2016-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TATASTEEL,2017-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TATASTEEL,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TATASTEEL,2024-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TRENT,2013-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TRENT,2014-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TRENT,2021-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,TRENT,2022-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,INDIGO,2019-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,INDIGO,2020-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-11,profitandloss,INDIGO,2024-03,tax_percentage,tax_percentage outside 0-60% range,WARNING
+DQ-12,profitandloss,BHARTIARTL,2019-03,dividend_payout,dividend_payout > 200%,WARNING
+DQ-12,profitandloss,BRITANNIA,2021-03,dividend_payout,dividend_payout > 200%,WARNING
+DQ-12,profitandloss,M&M,2020-03,dividend_payout,dividend_payout > 200%,WARNING
+DQ-12,profitandloss,SBIN,2017-03,dividend_payout,dividend_payout > 200%,WARNING
+DQ-12,profitandloss,TATAPOWER,2015-03,dividend_payout,dividend_payout > 200%,WARNING
+DQ-13,documents,ADANIENT,2011,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,ADANIENT,2010,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,ADANIENT,2009,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BANKBARODA,2010,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BANKBARODA,2009,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BEL,2022,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BEL,2019,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BEL,2015,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BEL,2012,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BEL,2011,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BEL,2010,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BEL,2009,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BHARTIARTL,2021,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BHARTIARTL,2018,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BHARTIARTL,2011,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BHARTIARTL,2010,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BHARTIARTL,2009,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BHEL,2015,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BHEL,2014,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BHEL,2013,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BHEL,2012,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BHEL,2011,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BHEL,2010,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BHEL,2009,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BOSCHLTD,2019,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BOSCHLTD,2018,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BOSCHLTD,2017,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BOSCHLTD,2014,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BOSCHLTD,2013,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BOSCHLTD,2012,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BOSCHLTD,2011,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BOSCHLTD,2010,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BOSCHLTD,2009,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BPCL,2022,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BPCL,2019,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BPCL,2016,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BPCL,2015,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BPCL,2010,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,BPCL,2009,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,DLF,2018,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,DLF,2017,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,EICHERMOT,2019,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,HAL,2011,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,ITC,2011,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,ITC,2010,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,ITC,2009,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,JINDALSTEL,2010,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,JINDALSTEL,2009,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,NESTLEIND,2023,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,SUNPHARMA,2011,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,SUNPHARMA,2010,Annual_Report,Missing annual report URL,WARNING
+DQ-13,documents,SUNPHARMA,2009,Annual_Report,Missing annual report URL,WARNING
+DQ-14,profitandloss,JSWENERGY,2018-03,eps,eps <= 0 while net_profit > 0,WARNING
+DQ-14,profitandloss,TATAPOWER,2013-03,eps,eps <= 0 while net_profit > 0,WARNING
+DQ-14,profitandloss,TATAPOWER,2014-03,eps,eps <= 0 while net_profit > 0,WARNING
+DQ-16,profitandloss,JIOFIN,,year_coverage,Only 2 years of history (<5),WARNING
+DQ-16,balancesheet,JIOFIN,,year_coverage,Only 3 years of history (<5),WARNING
+DQ-16,cashflow,JIOFIN,,year_coverage,Only 2 years of history (<5),WARNING

@@ -1,0 +1,13 @@
+table,rows_in,rows_out,rejected,duplicates_removed,orphans_removed,runtime_s
+companies,92,92,0,,,2.98
+profitandloss,1276,1070,103,12.0,91.0,2.98
+balancesheet,1312,1140,5,87.0,80.0,2.98
+cashflow,1187,1056,0,35.0,96.0,2.98
+analysis,20,16,0,,4.0,2.98
+documents,1585,1457,0,,128.0,2.98
+prosandcons,16,14,0,,2.0,2.98
+sectors,92,92,0,,0.0,2.98
+stock_prices,5520,5520,0,0.0,0.0,2.98
+market_cap,552,552,0,0.0,0.0,2.98
+financial_ratios,1184,1041,0,119.0,24.0,2.98
+peer_groups,56,56,0,,0.0,2.98

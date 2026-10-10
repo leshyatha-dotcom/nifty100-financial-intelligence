@@ -1,0 +1,103 @@
+# Screener Configuration — Nifty 100 Financial Intelligence Platform
+# Analyst-editable: change thresholds here without touching engine.py code.
+
+filters:
+  min_roe:            {column: return_on_equity_pct, op: ">="}
+  max_de:             {column: debt_to_equity,        op: "<="}
+  min_fcf:            {column: free_cash_flow_cr,     op: ">="}
+  min_rev_cagr_5yr:   {column: revenue_cagr_5yr,       op: ">="}
+  min_pat_cagr_5yr:   {column: pat_cagr_5yr,           op: ">="}
+  min_opm:            {column: operating_profit_margin_pct, op: ">="}
+  max_pe:             {column: pe_ratio,               op: "<="}
+  max_pb:             {column: pb_ratio,               op: "<="}
+  min_dividend_yield: {column: dividend_yield_pct,     op: ">="}
+  min_icr:            {column: interest_coverage,      op: ">="}
+  min_market_cap:     {column: market_cap_crore,       op: ">="}
+  min_net_profit:     {column: net_profit,             op: ">="}
+  min_eps_cagr:       {column: eps_cagr_5yr,           op: ">="}
+  min_asset_turnover: {column: asset_turnover,         op: ">="}
+  min_sales:          {column: sales,                  op: ">="}
+
+# D/E filter automatically skips companies in the Financials broad_sector (see engine.py).
+# ICR filter treats "Debt Free" (icr_label) as infinity - always passes any min_icr threshold.
+
+presets:
+  quality_compounder:
+    name: "Quality Compounder"
+    filters:
+      min_roe: 15
+      max_de: 1.0
+      min_fcf: 0
+      min_rev_cagr_5yr: 10
+    rank_by: composite_quality_score
+    expected_range: [15, 35]
+
+  value_pick:
+    name: "Value Pick"
+    filters:
+      # Original spec thresholds (max_pe: 20, max_pb: 3.0) assumed a lower-multiple market than
+      # this simulated dataset actually has (median P/E ~46x, median P/B ~7.7x - see
+      # ratio_edge_cases.log / Sprint 3 Day 16 notes). Recalibrated to this dataset's ~40th
+      # percentile so the preset still selects "cheaper than typical" names without returning
+      # only 1-2 companies. Revisit if real (non-simulated) market_cap data is substituted in.
+      max_pe: 36
+      max_pb: 6.5
+      max_de: 2.0
+      min_dividend_yield: 1
+    rank_by: fcf_yield_pct
+    expected_range: [10, 25]
+
+  growth_accelerator:
+    name: "Growth Accelerator"
+    filters:
+      min_pat_cagr_5yr: 20
+      min_rev_cagr_5yr: 15
+      max_de: 2.0
+    rank_by: pat_cagr_5yr
+    expected_range: [8, 20]
+
+  dividend_champion:
+    name: "Dividend Champion"
+    filters:
+      min_dividend_yield: 2
+      max_dividend_payout: 80
+      min_fcf: 0
+    rank_by: dividend_yield_pct
+    expected_range: [10, 20]
+
+  debt_free_blue_chip:
+    name: "Debt-Free Blue Chip"
+    filters:
+      max_de: 0
+      min_roe: 12
+      min_sales: 5000
+    rank_by: return_on_equity_pct
+    expected_range: [15, 30]
+
+  turnaround_watch:
+    name: "Turnaround Watch"
+    filters:
+      min_rev_cagr_3yr: 10
+      min_fcf: 0
+    rank_by: revenue_cagr_3yr
+    expected_range: [5, 15]
+
+composite_score_weights:
+  profitability:
+    weight: 0.35
+    roe: 0.15
+    roce: 0.10
+    npm: 0.10
+  cash_quality:
+    weight: 0.30
+    fcf_cagr: 0.15
+    cfo_pat_ratio: 0.10
+    fcf_positive_flag: 0.05
+  growth:
+    weight: 0.20
+    revenue_cagr: 0.10
+    pat_cagr: 0.10
+  leverage:
+    weight: 0.15
+    de_score: 0.10
+    icr_score: 0.05
